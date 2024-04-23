@@ -6,3 +6,5 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Amiko8&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Amiko8&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Amiko8&theme=solarized_dark)
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
